@@ -1,0 +1,17 @@
+29-03-2022 15:01:34 : Change Returned: NONE
+29-03-2022 15:01:34 : Change Returned: [ONEPOUND=1]
+29-03-2022 15:01:34 : Change Returned: [P=3, FIFTYP=1, ONEPOUND=1, TWENTYP=1]
+29-03-2022 15:01:34 : Change Returned: NONE
+29-03-2022 15:02:02 : Change Returned: [ONEPOUND=1]
+29-03-2022 15:02:02 : Change Returned: NONE
+29-03-2022 15:02:02 : Change Returned: NONE
+29-03-2022 15:02:02 : Change Returned: [P=3, FIFTYP=1, ONEPOUND=1, TWENTYP=1]
+29-03-2022 15:08:10 : Change Returned: NONE
+29-03-2022 15:08:10 : Change Returned: [P=3, FIFTYP=1, ONEPOUND=1, TWENTYP=1]
+29-03-2022 15:08:10 : Change Returned: [ONEPOUND=1]
+29-03-2022 15:08:10 : Change Returned: NONE
+29-03-2022 15:13:47 : Change Returned: [P=3, FIFTYP=1, ONEPOUND=1, TWENTYP=1]
+29-03-2022 15:14:15 : Change Returned: NONE
+29-03-2022 15:14:15 : Change Returned: [P=3, FIFTYP=1, ONEPOUND=1, TWENTYP=1]
+29-03-2022 15:14:15 : Change Returned: NONE
+29-03-2022 15:14:15 : Change Returned: [ONEPOUND=1]

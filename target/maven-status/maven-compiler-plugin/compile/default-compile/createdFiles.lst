@@ -1,0 +1,13 @@
+com\sg\vm\controller\servicelayer\VendingMachineServiceLayer$Change.class
+com\sg\vm\controller\servicelayer\VendingMachineServiceLayerInterface.class
+com\sg\vm\dto\VendingMachine.class
+com\sg\vm\ui\UserIOUtilities.class
+com\sg\vm\App.class
+com\sg\vm\dao\VendingMachineDaoImp.class
+com\sg\vm\ui\UserIOInterface.class
+com\sg\vm\dao\VendingMachineDao.class
+com\sg\vm\controller\VendingMachineController.class
+com\sg\vm\controller\servicelayer\VendingMachineServiceLayer.class
+com\sg\vm\dao\VendingMachineDaoException.class
+com\sg\vm\dto\Item.class
+com\sg\vm\ui\VendingMachineView.class

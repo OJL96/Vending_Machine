@@ -1,0 +1,6 @@
+Mars, 150, 2
+Coke, 200, 1
+Taytos, 140, 6
+Star Bar, 130, 6
+Twix, 145, 10
+Pepsi, 155, 12
