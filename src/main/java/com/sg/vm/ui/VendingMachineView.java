@@ -106,9 +106,6 @@ public class VendingMachineView {
     }
 
     public void displayChange(Map<String, Integer> change, VendingMachine vm) {
-        if (change.isEmpty()) {
-            return;
-        }
         if (vm.getStatus() == 1) {
             io.print("**** CHANGED DEPOSITED ****");
             // lambda function instead of for each loop 
